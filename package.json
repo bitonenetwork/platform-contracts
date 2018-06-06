@@ -2,10 +2,7 @@
     "name": "bitonenetwork",
     "version": "1.0.0",
     "description": "The contracts for Bitone Network",
-    
-    "scripts": {
-        "test": "test/test.sol"
-    },
+  
 
     "devDependencies": {
       "babel-cli": "^6.26.0",
