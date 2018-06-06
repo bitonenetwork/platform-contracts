@@ -1,0 +1,42 @@
+{
+    "name": "bitonenetwork",
+    "version": "1.0.0",
+    "description": "The contracts for Bitone Network",
+    
+    "scripts": {
+        "test": "test/test.sol"
+    },
+
+    "devDependencies": {
+      "babel-cli": "^6.26.0",
+      "babel-preset-env": "^1.6.1",
+      "babel-preset-stage-2": "^6.24.1",
+      "chai": "^4.1.2",
+      "chai-as-promised": "^7.1.1",
+      "chai-bignumber": "^2.0.2",
+      "ethereumjs-testrpc": "^6.0.2",
+      "solidity-coverage": "^0.4.0",
+      "truffle": "^4.0.1",
+      "truffle-hdwallet-provider": "0.0.3",
+      "zeppelin-solidity": "git+https://github.com/EthicHub/zeppelin-solidity.git#develop"
+    },
+    
+    
+    "keywords": [
+      "crowdsale",
+      "tokensale",
+      "ico",
+      "ethereum",
+      "solidity",
+      "zeppelin"
+      
+    ],
+    
+    "license": "GPL-3.0",
+    
+    "dependencies": {
+      "temp": "^0.8.3",
+      "truffle-artifactor": "^3.0.2",
+      "web3": "^1.0.0-beta.27"
+    }
+  }
